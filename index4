@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<style>
+#id1 { 
+   position: absolute; 
+   top: 250px; 
+   left: 0; 
+   width: 100%; 
+   text-align:center;
+   font-size:70px;
+   color:black;
+}
+#id2{ 
+   position: absolute; 
+   top: 350px; 
+   left: 0; 
+   width: 100%; 
+   text-align:center;
+   font-size:20px;
+   color:black;}
+.tut
+{
+font-size:25px;
+}
+</style>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Blog Posts</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/landing-page.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top topnav" role="navigation">
+        <div class="container topnav">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <img src="https://files.slack.com/files-pri/T1J0XQ7JQ-F1XKMFJF7/pasted_image_at_2016_08_02_04_43_pm.png" height="50" width="110">
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a href="index.html">Home</a>
+                    </li>
+                    <li>
+                         <a href="Index2.html">Our Services</a>
+
+                    </li>
+                    <li>
+                        <a href="Index3.html">Find Camps</a>
+                    </li>
+                    <li>
+                       <a style="color:blue;">Blog Posts</a>
+                    </li>
+                    <li>
+                        <a href="Index5.html">Contact Us</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+
+    <a name="about"></a>
+    <div class="image">
+    <img src="http://science-all.com/images/wallpapers/simple-wallpaper/simple-wallpaper-12.jpg" height="600" width="1280">
+    <p id="id1">Blog Posts</h1>
+    </div>
+   
+        <div class="container">
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <!-- /.container -->
+
+    </div>
+        <!-- /.container -->
+
+    </div>
+
+    <!-- Page Content -->
+
+	<a  name="services"></a>
+    <div class="content-section-a">
+
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-5 col-sm-6">
+                    <hr class="section-heading-spacer">
+                    <div class="clearfix"></div>
+                    <h2 class="section-heading">Adventures of the First Class - Day 1</h2>
+                    <p class="lead">What we did and what we learned?
+    On the first day of class we started with Web. Development taught by Kevin. It was really fun. Starting off with the fundamentals, we learned how to code HTML. HTML started with the fundamentals, how to start any HTML code, how to code a header, paragraph, and an ordered and unordered list. We also learned CSS, which is basically the design version of coding for a website. After Web. Development, we started with some Python taught by Sid. We used Anaconda, in which we used Jupyter to program our code. We first started off with the basics of Python, if statements, module signs, for loops, etc. This took at least an hour and a half, but it was a good hour and a half. Later on, we had an hour or so more time for lunch. 
+        
+After lunch, we started on Graphic Design, which was a new thing for us, but we really enjoyed. We learned about the tools that are on the bar onto the left of the screen, which are pretty important tools to start off with because you need to know how they work and what they do. Next, moving on from that we headed over to business. There we learned about what business is, how it is useful, and how to make money or profit from it. 
+
+What did we find difficult?
+    What our group thought was difficult was buisiness. As children like us we haven’t really talked or thought about business. So that was one thing that was a little difficult at the beginning. Later on through the lecture the group and I sort of got to understand the idea of business.
+
+What did we like most about the day? 
+    Our group thought there wasn’t a particular event of the day that we like the most, we all enjoyed the day equally. Starting with the WEB. Development, and then ending with Business. 
+</p>
+</br>
+<p href="">Tutorial</p>
+                </div>
+                <div class="col-lg-5 col-lg-offset-2 col-sm-6">
+                    <img class="img-responsive" src="http://sccentral.org/blog/wp-content/uploads/2011/07/AL-logo.png" alt="">
+                </div>
+            </div>
+
+        </div>
+        <div class="container">
+            </br>
+            </br>
+            </br>
+            
+            <div class="row">
+
+                <div class="col-lg-5 col-sm-6">
+                    <hr class="section-heading-spacer">
+                    <div class="clearfix"></div>
+                    <h2 class="section-heading">The Life of a Hacker - Day 2</h2>
+                    <p class="lead">Hey guys, it’s Blog #2 from your favorite team, Team 1! We learned a lot today on our second day at Coder Central Startup Academy!
+    At the beginning, we spent some time refining our startup idea. We thought of what exactly our website would do and possible questions the judges will have when we pitch our startup to them.
+    Next, we watched Steve Job’s commencement speech at Stanford University. He reminded us that even though the choices we make or the circumstances we are in may sometimes yield uncertain results, never settle and don’t ever stop looking for that one job that you are meant to do, the job that is your love and passion.
+    After that, we made a GitHub account for each of us as well as one for us as a group. We also made a group gmail account. Once we were signed on to GitHub and had made a repository, we opened Git Bash or Terminal. Daniel helped us figure out how to pull and push the html document for our website to the local repositories, or our computers. It was a little difficult to figure out how to pull and push the documents we wanted, but it made us look like hackers!
+    After lunch, we watched an astonishing video about an amazing magician and his card tricks that not even professional magicians could catch.
+    Next, we worked on Python with Sidd. He taught us about data tables and how to insert information into a data table. We also learned to print specific columns of the data table.
+    Once we finished Python, we took a break and played a game. It was a spinoff to charades. Basically, each person is assigned a role to play, and one person has to guess each of his/her team members’ roles. 
+    After our break, Brittney took over and taught us the basics of designing flyers. She taught us the importance of font type, color, and size, and how it helps draw attention to the most important information.
+    For the last part of the day, Harshita taught us business. We learned about the different types of business and through what mediums they monetize their products or services.
+</p>
+                
+                    <p class="tut">Tutorial</p>
+                     <p class="lead">1.Select a template. If you want to make your flyer from scratch, select a color scheme. Make sure that the colors you use are relevant to the topic and catch the reader’s attention.
+2.Construct the title part of the flyer. Design your flyer in a way that immediately directs the reader’s eye to the header of the flyer. The size and font should be bold and eye-catching.
+3.The next part the reader’s eye needs to be guided to is the body. The body should be concise but should have the necessary information about the topic. Choose an appropriate font type, color, and size. 
+4.Add subtle color streaks or patterns that guide the user’s eyes through the flyer’s title and body.
+5.You can also add a few images if you want. Make sure the images are relevant, not too big, and have not been copyrighted.
+6.Don’t add too much writing to the flyer because the reader will not want to read it. Write only the basic information.
+7.The purpose of the flyer is the attract the reader’s attention and give basic information about the topic. Look through the flyer and determine whether it meets those two points.
+8.Print out a good number of copies of your flyer. Distribute them or put them up around the area.
+9.You have just successfully made an eye-catching flyer!
+</p>
+                </div>
+                <div class="col-lg-5 col-lg-offset-2 col-sm-6">
+                    <img class="img-responsive" src="https://images3.alphacoders.com/853/85329.jpg" alt="">
+                </div>
+            </div>
+
+        </div>
+        </div>
+        <div class="container">
+            </br>
+            </br>
+            </br>
+            
+            <div class="row">
+
+                <div class="col-lg-5 col-sm-6">
+                    <hr class="section-heading-spacer">
+                    <div class="clearfix"></div>
+                    <h2 class="section-heading">Getting Ready for the Pitch - Day 3</h2>
+                    <p class="lead">What did we do that day/What did we learn today:
+    Starting off with talking about our product, we started by splitting into 2 rooms. We then worked on our project for about an 1 hour. After that, we headed towards Business who was taught by Harshita. In which we learned about how to write a Business Plan and learned how to present. After that, Harshita gave each of us impromptu speech ideas that we had to present in front of the class for one minute. Some of the topics were, ears, toilet paper, and potatoes. It was really random! We then had  5 minute break and then started Python who was taught by Sid. In Python we turned our survey into a CSS file and then made a table using Python code to sort the information from the survey, even though it already does it on Google Form, Sid said that it would be a lot more efficient, which he was right on. After Python, we had an hour break for lunch. 
+    After lunch, we actually had a small break and decided as a group to watch Shark Tank. We watched for at least 15 minutes, when it was time for Graphic Design who was taught by Brittney. In Graphic Design we learned how to make a good logo and a decent flyer. It was all about contrasting colors and eye catching ideas. After the lesson, Brittney came and critiqued our logos and gave us advice. Last but not least, we moved onto WEB. Development who was taught by Kevin. In WEB. Development we had a free time so we decided to work on our pitch. 
+
+What did we find difficult?
+    We didn’t find anything difficult except trying to export files into GIT. We asked Sidd about the problem and he had the answer, so it wasn’t a big problem. 
+
+What did we like that day?
+    After lunch, we had “discovered” the amazing apple T.V., and decided to watch some T.V. with Brittany’s permission. We had been watching Shark Tank for at least 15 min, when it was time for Graphic Design. It was a fun/interesting time. :)
+</p>
+</br>
+<p href="">Tutorial</p>
+                </div>
+                <div class="col-lg-5 col-lg-offset-2 col-sm-6">
+                    <img class="img-responsive" src="http://previews.123rf.com/images/pressmaster/pressmaster1006/pressmaster100600510/7261517-Row-of-business-people-getting-ready-for-race-Stock-Photo-competition.jpg" alt="">
+                </div>
+            </div>
+
+        </div>
+
+        <!-- /.container -->
+
+    </div>
+
+    
+
+	<a  name="contact"></a>
+    <div class="banner">
+
+        <div class="container">
+
+            <div class="row">
+                <div class="col-lg-6">
+                    <h2>The New Way to Learn</h2>
+                </div>
+                <div class="col-lg-6">
+                    <ul class="list-inline banner-social-buttons">
+                       
+                </div>
+            </div>
+
+        </div>
+        <!-- /.container -->
+
+    </div>
+    <!-- /.banner -->
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <ul class="list-inline">
+                        <li>
+                            <a href="#Home">Home</a>
+                        </li>
+                        <li class="footer-menu-divider">&sdot;</li>
+                        <li>
+                            <a href="# Our Services"> Our Services</a>
+                        </li>
+                        <li class="footer-menu-divider">&sdot;</li>
+                        <li>
+                            <a href="#Register">Register</a>
+                        </li>
+                        <li class="footer-menu-divider">&sdot;</li>
+                        <li>
+                            <a href="#Blog Posts">Blog Posts</a>
+                        </li>
+                        <li class="footer-menu-divider">&sdot;</li>
+                        <li>
+                            <a href="#Contact Us">Contact Us</a>
+                        </li>
+                    </ul>
+                    <p class="copyright text-muted small">Copyright &copy; Smart Camper 2016. All Rights Reserved</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+</body>
+
+</html>
